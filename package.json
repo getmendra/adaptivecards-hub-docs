@@ -1,0 +1,13 @@
+{
+  "name": "adaptivecards-docs-scraper",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node scrape.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.50.0",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}

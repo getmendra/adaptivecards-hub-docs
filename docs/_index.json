@@ -1,0 +1,392 @@
+[
+  {
+    "topic": "welcome",
+    "text": "Welcome",
+    "url": "https://adaptivecards.microsoft.com/?topic=welcome"
+  },
+  {
+    "topic": "release-history",
+    "text": "Release history",
+    "url": "https://adaptivecards.microsoft.com/?topic=release-history"
+  },
+  {
+    "topic": "design-best-practices",
+    "text": "Design best practices",
+    "url": "https://adaptivecards.microsoft.com/?topic=design-best-practices"
+  },
+  {
+    "topic": "icon-catalog",
+    "text": "Icon catalog",
+    "url": "https://adaptivecards.microsoft.com/?topic=icon-catalog"
+  },
+  {
+    "topic": "text-formatting",
+    "text": "Markdown",
+    "url": "https://adaptivecards.microsoft.com/?topic=text-formatting"
+  },
+  {
+    "topic": "date-time-formatting",
+    "text": "Date and time formatting",
+    "url": "https://adaptivecards.microsoft.com/?topic=date-time-formatting"
+  },
+  {
+    "topic": "at-mentions",
+    "text": "At mentions",
+    "url": "https://adaptivecards.microsoft.com/?topic=at-mentions"
+  },
+  {
+    "topic": "citations",
+    "text": "Citations",
+    "url": "https://adaptivecards.microsoft.com/?topic=citations"
+  },
+  {
+    "topic": "responsive-layout",
+    "text": "Build responsive layouts",
+    "url": "https://adaptivecards.microsoft.com/?topic=responsive-layout"
+  },
+  {
+    "topic": "collapsible-sections",
+    "text": "Create collapsible sections",
+    "url": "https://adaptivecards.microsoft.com/?topic=collapsible-sections"
+  },
+  {
+    "topic": "edge-to-edge-content",
+    "text": "Edge-to-edge content",
+    "url": "https://adaptivecards.microsoft.com/?topic=edge-to-edge-content"
+  },
+  {
+    "topic": "container-layouts",
+    "text": "Use container layouts",
+    "url": "https://adaptivecards.microsoft.com/?topic=container-layouts"
+  },
+  {
+    "topic": "people-picker",
+    "text": "People Picker",
+    "url": "https://adaptivecards.microsoft.com/?topic=people-picker"
+  },
+  {
+    "topic": "dynamic-typeahead",
+    "text": "Dynamic typeahead search",
+    "url": "https://adaptivecards.microsoft.com/?topic=dynamic-typeahead"
+  },
+  {
+    "topic": "input-linking",
+    "text": "Linking inputs",
+    "url": "https://adaptivecards.microsoft.com/?topic=input-linking"
+  },
+  {
+    "topic": "input-validation",
+    "text": "Input validation",
+    "url": "https://adaptivecards.microsoft.com/?topic=input-validation"
+  },
+  {
+    "topic": "icons",
+    "text": "Creating custom icons",
+    "url": "https://adaptivecards.microsoft.com/?topic=icons"
+  },
+  {
+    "topic": "dynamic-properties",
+    "text": "Dynamic properties",
+    "url": "https://adaptivecards.microsoft.com/?topic=dynamic-properties"
+  },
+  {
+    "topic": "expression-syntax",
+    "text": "Expression syntax",
+    "url": "https://adaptivecards.microsoft.com/?topic=expression-syntax"
+  },
+  {
+    "topic": "AdaptiveCard",
+    "text": "AdaptiveCard",
+    "url": "https://adaptivecards.microsoft.com/?topic=AdaptiveCard"
+  },
+  {
+    "topic": "Accordion",
+    "text": "Accordion",
+    "url": "https://adaptivecards.microsoft.com/?topic=Accordion"
+  },
+  {
+    "topic": "ActionSet",
+    "text": "ActionSet",
+    "url": "https://adaptivecards.microsoft.com/?topic=ActionSet"
+  },
+  {
+    "topic": "Badge",
+    "text": "Badge",
+    "url": "https://adaptivecards.microsoft.com/?topic=Badge"
+  },
+  {
+    "topic": "Carousel",
+    "text": "Carousel",
+    "url": "https://adaptivecards.microsoft.com/?topic=Carousel"
+  },
+  {
+    "topic": "CodeBlock",
+    "text": "CodeBlock",
+    "url": "https://adaptivecards.microsoft.com/?topic=CodeBlock"
+  },
+  {
+    "topic": "ColumnSet",
+    "text": "ColumnSet",
+    "url": "https://adaptivecards.microsoft.com/?topic=ColumnSet"
+  },
+  {
+    "topic": "CompoundButton",
+    "text": "CompoundButton",
+    "url": "https://adaptivecards.microsoft.com/?topic=CompoundButton"
+  },
+  {
+    "topic": "Container",
+    "text": "Container",
+    "url": "https://adaptivecards.microsoft.com/?topic=Container"
+  },
+  {
+    "topic": "FactSet",
+    "text": "FactSet",
+    "url": "https://adaptivecards.microsoft.com/?topic=FactSet"
+  },
+  {
+    "topic": "Icon",
+    "text": "Icon",
+    "url": "https://adaptivecards.microsoft.com/?topic=Icon"
+  },
+  {
+    "topic": "Image",
+    "text": "Image",
+    "url": "https://adaptivecards.microsoft.com/?topic=Image"
+  },
+  {
+    "topic": "ImageSet",
+    "text": "ImageSet",
+    "url": "https://adaptivecards.microsoft.com/?topic=ImageSet"
+  },
+  {
+    "topic": "LoopComponent",
+    "text": "LoopComponent",
+    "url": "https://adaptivecards.microsoft.com/?topic=LoopComponent"
+  },
+  {
+    "topic": "Media",
+    "text": "Media",
+    "url": "https://adaptivecards.microsoft.com/?topic=Media"
+  },
+  {
+    "topic": "BackgroundImage",
+    "text": "Background images",
+    "url": "https://adaptivecards.microsoft.com/?topic=BackgroundImage"
+  },
+  {
+    "topic": "Component.graph.microsoft.com/event",
+    "text": "Calendar event",
+    "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/event"
+  },
+  {
+    "topic": "Component.graph.microsoft.com/file",
+    "text": "File",
+    "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/file"
+  },
+  {
+    "topic": "Component.graph.microsoft.com/resource",
+    "text": "Graph resource",
+    "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/resource"
+  },
+  {
+    "topic": "Component.graph.microsoft.com/user",
+    "text": "Persona",
+    "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/user"
+  },
+  {
+    "topic": "Component.graph.microsoft.com/users",
+    "text": "PersonaSet",
+    "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/users"
+  },
+  {
+    "topic": "Action.Execute",
+    "text": "Action.Execute",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.Execute"
+  },
+  {
+    "topic": "Action.InsertImage",
+    "text": "Action.InsertImage",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.InsertImage"
+  },
+  {
+    "topic": "Action.OpenUrl",
+    "text": "Action.OpenUrl",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.OpenUrl"
+  },
+  {
+    "topic": "Action.OpenUrlDialog",
+    "text": "Action.OpenUrlDialog",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.OpenUrlDialog"
+  },
+  {
+    "topic": "Action.Popover",
+    "text": "Action.Popover",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.Popover"
+  },
+  {
+    "topic": "Action.ResetInputs",
+    "text": "Action.ResetInputs",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.ResetInputs"
+  },
+  {
+    "topic": "Action.RunCommands",
+    "text": "Action.RunCommands",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.RunCommands"
+  },
+  {
+    "topic": "Action.ShowCard",
+    "text": "Action.ShowCard",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.ShowCard"
+  },
+  {
+    "topic": "Action.Submit",
+    "text": "Action.Submit",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.Submit"
+  },
+  {
+    "topic": "Action.ToggleVisibility",
+    "text": "Action.ToggleVisibility",
+    "url": "https://adaptivecards.microsoft.com/?topic=Action.ToggleVisibility"
+  },
+  {
+    "topic": "ProgressBar",
+    "text": "ProgressBar",
+    "url": "https://adaptivecards.microsoft.com/?topic=ProgressBar"
+  },
+  {
+    "topic": "ProgressRing",
+    "text": "ProgressRing",
+    "url": "https://adaptivecards.microsoft.com/?topic=ProgressRing"
+  },
+  {
+    "topic": "Rating",
+    "text": "Rating",
+    "url": "https://adaptivecards.microsoft.com/?topic=Rating"
+  },
+  {
+    "topic": "RichTextBlock",
+    "text": "RichTextBlock",
+    "url": "https://adaptivecards.microsoft.com/?topic=RichTextBlock"
+  },
+  {
+    "topic": "Table",
+    "text": "Table",
+    "url": "https://adaptivecards.microsoft.com/?topic=Table"
+  },
+  {
+    "topic": "TabSet",
+    "text": "TabSet",
+    "url": "https://adaptivecards.microsoft.com/?topic=TabSet"
+  },
+  {
+    "topic": "TextBlock",
+    "text": "TextBlock",
+    "url": "https://adaptivecards.microsoft.com/?topic=TextBlock"
+  },
+  {
+    "topic": "Input.ChoiceSet",
+    "text": "Input.ChoiceSet",
+    "url": "https://adaptivecards.microsoft.com/?topic=Input.ChoiceSet"
+  },
+  {
+    "topic": "Input.Date",
+    "text": "Input.Date",
+    "url": "https://adaptivecards.microsoft.com/?topic=Input.Date"
+  },
+  {
+    "topic": "Input.Number",
+    "text": "Input.Number",
+    "url": "https://adaptivecards.microsoft.com/?topic=Input.Number"
+  },
+  {
+    "topic": "Input.Rating",
+    "text": "Input.Rating",
+    "url": "https://adaptivecards.microsoft.com/?topic=Input.Rating"
+  },
+  {
+    "topic": "Input.Text",
+    "text": "Input.Text",
+    "url": "https://adaptivecards.microsoft.com/?topic=Input.Text"
+  },
+  {
+    "topic": "Chart.Donut",
+    "text": "Chart.Donut",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Donut"
+  },
+  {
+    "topic": "Chart.Gauge",
+    "text": "Chart.Gauge",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Gauge"
+  },
+  {
+    "topic": "Chart.HorizontalBar",
+    "text": "Chart.HorizontalBar",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.HorizontalBar"
+  },
+  {
+    "topic": "Chart.HorizontalBar.Stacked",
+    "text": "Chart.HorizontalBar.Stacked",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.HorizontalBar.Stacked"
+  },
+  {
+    "topic": "Chart.Line",
+    "text": "Chart.Line",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Line"
+  },
+  {
+    "topic": "Input.Time",
+    "text": "Input.Time",
+    "url": "https://adaptivecards.microsoft.com/?topic=Input.Time"
+  },
+  {
+    "topic": "Input.Toggle",
+    "text": "Input.Toggle",
+    "url": "https://adaptivecards.microsoft.com/?topic=Input.Toggle"
+  },
+  {
+    "topic": "AccordionPage",
+    "text": "AccordionPage",
+    "url": "https://adaptivecards.microsoft.com/?topic=AccordionPage"
+  },
+  {
+    "topic": "HostCapabilities",
+    "text": "HostCapabilities",
+    "url": "https://adaptivecards.microsoft.com/?topic=HostCapabilities"
+  },
+  {
+    "topic": "IconInfo",
+    "text": "IconInfo",
+    "url": "https://adaptivecards.microsoft.com/?topic=IconInfo"
+  },
+  {
+    "topic": "TabPage",
+    "text": "TabPage",
+    "url": "https://adaptivecards.microsoft.com/?topic=TabPage"
+  },
+  {
+    "topic": "ThemedUrl",
+    "text": "ThemedUrl",
+    "url": "https://adaptivecards.microsoft.com/?topic=ThemedUrl"
+  },
+  {
+    "topic": "Chart.Pie",
+    "text": "Chart.Pie",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Pie"
+  },
+  {
+    "topic": "Chart.VerticalBar",
+    "text": "Chart.VerticalBar",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.VerticalBar"
+  },
+  {
+    "topic": "Chart.VerticalBar.Grouped",
+    "text": "Chart.VerticalBar.Grouped",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.VerticalBar.Grouped"
+  },
+  {
+    "topic": "chart-colors-reference",
+    "text": "Chart colors reference",
+    "url": "https://adaptivecards.microsoft.com/?topic=chart-colors-reference"
+  }
+]
