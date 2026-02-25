@@ -60,6 +60,26 @@
     "url": "https://adaptivecards.microsoft.com/?topic=container-layouts"
   },
   {
+    "topic": "Layout.Stack",
+    "text": "Layout.Stack",
+    "url": "https://adaptivecards.microsoft.com/?topic=Layout.Stack"
+  },
+  {
+    "topic": "Layout.Flow",
+    "text": "Layout.Flow",
+    "url": "https://adaptivecards.microsoft.com/?topic=Layout.Flow"
+  },
+  {
+    "topic": "Layout.AreaGrid",
+    "text": "Layout.AreaGrid",
+    "url": "https://adaptivecards.microsoft.com/?topic=Layout.AreaGrid"
+  },
+  {
+    "topic": "GridArea",
+    "text": "GridArea",
+    "url": "https://adaptivecards.microsoft.com/?topic=GridArea"
+  },
+  {
     "topic": "people-picker",
     "text": "People Picker",
     "url": "https://adaptivecards.microsoft.com/?topic=people-picker"
@@ -85,6 +105,11 @@
     "url": "https://adaptivecards.microsoft.com/?topic=icons"
   },
   {
+    "topic": "BackgroundImage",
+    "text": "Background images",
+    "url": "https://adaptivecards.microsoft.com/?topic=BackgroundImage"
+  },
+  {
     "topic": "dynamic-properties",
     "text": "Dynamic properties",
     "url": "https://adaptivecards.microsoft.com/?topic=dynamic-properties"
@@ -98,6 +123,66 @@
     "topic": "AdaptiveCard",
     "text": "AdaptiveCard",
     "url": "https://adaptivecards.microsoft.com/?topic=AdaptiveCard"
+  },
+  {
+    "topic": "RefreshDefinition",
+    "text": "RefreshDefinition",
+    "url": "https://adaptivecards.microsoft.com/?topic=RefreshDefinition"
+  },
+  {
+    "topic": "Authentication",
+    "text": "Authentication",
+    "url": "https://adaptivecards.microsoft.com/?topic=Authentication"
+  },
+  {
+    "topic": "AuthCardButton",
+    "text": "AuthCardButton",
+    "url": "https://adaptivecards.microsoft.com/?topic=AuthCardButton"
+  },
+  {
+    "topic": "CardMetadata",
+    "text": "CardMetadata",
+    "url": "https://adaptivecards.microsoft.com/?topic=CardMetadata"
+  },
+  {
+    "topic": "TokenExchangeResource",
+    "text": "TokenExchangeResource",
+    "url": "https://adaptivecards.microsoft.com/?topic=TokenExchangeResource"
+  },
+  {
+    "topic": "TeamsCardProperties",
+    "text": "TeamsCardProperties",
+    "url": "https://adaptivecards.microsoft.com/?topic=TeamsCardProperties"
+  },
+  {
+    "topic": "mention",
+    "text": "mention",
+    "url": "https://adaptivecards.microsoft.com/?topic=mention"
+  },
+  {
+    "topic": "Resources",
+    "text": "Resources",
+    "url": "https://adaptivecards.microsoft.com/?topic=Resources"
+  },
+  {
+    "topic": "StringResource",
+    "text": "StringResource",
+    "url": "https://adaptivecards.microsoft.com/?topic=StringResource"
+  },
+  {
+    "topic": "MentionedEntity",
+    "text": "MentionedEntity",
+    "url": "https://adaptivecards.microsoft.com/?topic=MentionedEntity"
+  },
+  {
+    "topic": "AdaptiveCardReference",
+    "text": "AdaptiveCardReference",
+    "url": "https://adaptivecards.microsoft.com/?topic=AdaptiveCardReference"
+  },
+  {
+    "topic": "DocumentReference",
+    "text": "DocumentReference",
+    "url": "https://adaptivecards.microsoft.com/?topic=DocumentReference"
   },
   {
     "topic": "Accordion",
@@ -120,6 +205,11 @@
     "url": "https://adaptivecards.microsoft.com/?topic=Carousel"
   },
   {
+    "topic": "CarouselPage",
+    "text": "CarouselPage",
+    "url": "https://adaptivecards.microsoft.com/?topic=CarouselPage"
+  },
+  {
     "topic": "CodeBlock",
     "text": "CodeBlock",
     "url": "https://adaptivecards.microsoft.com/?topic=CodeBlock"
@@ -128,6 +218,11 @@
     "topic": "ColumnSet",
     "text": "ColumnSet",
     "url": "https://adaptivecards.microsoft.com/?topic=ColumnSet"
+  },
+  {
+    "topic": "Column",
+    "text": "Column",
+    "url": "https://adaptivecards.microsoft.com/?topic=Column"
   },
   {
     "topic": "CompoundButton",
@@ -145,6 +240,11 @@
     "url": "https://adaptivecards.microsoft.com/?topic=FactSet"
   },
   {
+    "topic": "Fact",
+    "text": "Fact",
+    "url": "https://adaptivecards.microsoft.com/?topic=Fact"
+  },
+  {
     "topic": "Icon",
     "text": "Icon",
     "url": "https://adaptivecards.microsoft.com/?topic=Icon"
@@ -153,6 +253,11 @@
     "topic": "Image",
     "text": "Image",
     "url": "https://adaptivecards.microsoft.com/?topic=Image"
+  },
+  {
+    "topic": "TeamsImageProperties",
+    "text": "TeamsImageProperties",
+    "url": "https://adaptivecards.microsoft.com/?topic=TeamsImageProperties"
   },
   {
     "topic": "ImageSet",
@@ -170,9 +275,84 @@
     "url": "https://adaptivecards.microsoft.com/?topic=Media"
   },
   {
-    "topic": "BackgroundImage",
-    "text": "Background images",
-    "url": "https://adaptivecards.microsoft.com/?topic=BackgroundImage"
+    "topic": "MediaSource",
+    "text": "MediaSource",
+    "url": "https://adaptivecards.microsoft.com/?topic=MediaSource"
+  },
+  {
+    "topic": "CaptionSource",
+    "text": "CaptionSource",
+    "url": "https://adaptivecards.microsoft.com/?topic=CaptionSource"
+  },
+  {
+    "topic": "ProgressBar",
+    "text": "ProgressBar",
+    "url": "https://adaptivecards.microsoft.com/?topic=ProgressBar"
+  },
+  {
+    "topic": "ProgressRing",
+    "text": "ProgressRing",
+    "url": "https://adaptivecards.microsoft.com/?topic=ProgressRing"
+  },
+  {
+    "topic": "Rating",
+    "text": "Rating",
+    "url": "https://adaptivecards.microsoft.com/?topic=Rating"
+  },
+  {
+    "topic": "RichTextBlock",
+    "text": "RichTextBlock",
+    "url": "https://adaptivecards.microsoft.com/?topic=RichTextBlock"
+  },
+  {
+    "topic": "TextRun",
+    "text": "TextRun",
+    "url": "https://adaptivecards.microsoft.com/?topic=TextRun"
+  },
+  {
+    "topic": "CitationRun",
+    "text": "CitationRun",
+    "url": "https://adaptivecards.microsoft.com/?topic=CitationRun"
+  },
+  {
+    "topic": "IconRun",
+    "text": "IconRun",
+    "url": "https://adaptivecards.microsoft.com/?topic=IconRun"
+  },
+  {
+    "topic": "ImageRun",
+    "text": "ImageRun",
+    "url": "https://adaptivecards.microsoft.com/?topic=ImageRun"
+  },
+  {
+    "topic": "Table",
+    "text": "Table",
+    "url": "https://adaptivecards.microsoft.com/?topic=Table"
+  },
+  {
+    "topic": "ColumnDefinition",
+    "text": "ColumnDefinition",
+    "url": "https://adaptivecards.microsoft.com/?topic=ColumnDefinition"
+  },
+  {
+    "topic": "TableRow",
+    "text": "TableRow",
+    "url": "https://adaptivecards.microsoft.com/?topic=TableRow"
+  },
+  {
+    "topic": "TableCell",
+    "text": "TableCell",
+    "url": "https://adaptivecards.microsoft.com/?topic=TableCell"
+  },
+  {
+    "topic": "TabSet",
+    "text": "TabSet",
+    "url": "https://adaptivecards.microsoft.com/?topic=TabSet"
+  },
+  {
+    "topic": "TextBlock",
+    "text": "TextBlock",
+    "url": "https://adaptivecards.microsoft.com/?topic=TextBlock"
   },
   {
     "topic": "Component.graph.microsoft.com/event",
@@ -180,9 +360,24 @@
     "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/event"
   },
   {
+    "topic": "CalendarEventProperties",
+    "text": "CalendarEventProperties",
+    "url": "https://adaptivecards.microsoft.com/?topic=CalendarEventProperties"
+  },
+  {
+    "topic": "CalendarEventAttendee",
+    "text": "CalendarEventAttendee",
+    "url": "https://adaptivecards.microsoft.com/?topic=CalendarEventAttendee"
+  },
+  {
     "topic": "Component.graph.microsoft.com/file",
     "text": "File",
     "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/file"
+  },
+  {
+    "topic": "FileProperties",
+    "text": "FileProperties",
+    "url": "https://adaptivecards.microsoft.com/?topic=FileProperties"
   },
   {
     "topic": "Component.graph.microsoft.com/resource",
@@ -190,14 +385,34 @@
     "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/resource"
   },
   {
+    "topic": "ResourceProperties",
+    "text": "ResourceProperties",
+    "url": "https://adaptivecards.microsoft.com/?topic=ResourceProperties"
+  },
+  {
+    "topic": "ResourceVisualization",
+    "text": "ResourceVisualization",
+    "url": "https://adaptivecards.microsoft.com/?topic=ResourceVisualization"
+  },
+  {
     "topic": "Component.graph.microsoft.com/user",
     "text": "Persona",
     "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/user"
   },
   {
+    "topic": "PersonaProperties",
+    "text": "PersonaProperties",
+    "url": "https://adaptivecards.microsoft.com/?topic=PersonaProperties"
+  },
+  {
     "topic": "Component.graph.microsoft.com/users",
     "text": "PersonaSet",
     "url": "https://adaptivecards.microsoft.com/?topic=Component.graph.microsoft.com/users"
+  },
+  {
+    "topic": "PersonaSetProperties",
+    "text": "PersonaSetProperties",
+    "url": "https://adaptivecards.microsoft.com/?topic=PersonaSetProperties"
   },
   {
     "topic": "Action.Execute",
@@ -245,49 +460,69 @@
     "url": "https://adaptivecards.microsoft.com/?topic=Action.Submit"
   },
   {
+    "topic": "TeamsSubmitActionProperties",
+    "text": "TeamsSubmitActionProperties",
+    "url": "https://adaptivecards.microsoft.com/?topic=TeamsSubmitActionProperties"
+  },
+  {
+    "topic": "TeamsSubmitActionFeedback",
+    "text": "TeamsSubmitActionFeedback",
+    "url": "https://adaptivecards.microsoft.com/?topic=TeamsSubmitActionFeedback"
+  },
+  {
+    "topic": "ImBackSubmitActionData",
+    "text": "ImBackSubmitActionData",
+    "url": "https://adaptivecards.microsoft.com/?topic=ImBackSubmitActionData"
+  },
+  {
+    "topic": "MessageBackSubmitActionData",
+    "text": "MessageBackSubmitActionData",
+    "url": "https://adaptivecards.microsoft.com/?topic=MessageBackSubmitActionData"
+  },
+  {
+    "topic": "InvokeSubmitActionData",
+    "text": "InvokeSubmitActionData",
+    "url": "https://adaptivecards.microsoft.com/?topic=InvokeSubmitActionData"
+  },
+  {
+    "topic": "TaskFetchSubmitActionData",
+    "text": "TaskFetchSubmitActionData",
+    "url": "https://adaptivecards.microsoft.com/?topic=TaskFetchSubmitActionData"
+  },
+  {
+    "topic": "SigninSubmitActionData",
+    "text": "SigninSubmitActionData",
+    "url": "https://adaptivecards.microsoft.com/?topic=SigninSubmitActionData"
+  },
+  {
+    "topic": "SubmitActionData",
+    "text": "SubmitActionData",
+    "url": "https://adaptivecards.microsoft.com/?topic=SubmitActionData"
+  },
+  {
     "topic": "Action.ToggleVisibility",
     "text": "Action.ToggleVisibility",
     "url": "https://adaptivecards.microsoft.com/?topic=Action.ToggleVisibility"
   },
   {
-    "topic": "ProgressBar",
-    "text": "ProgressBar",
-    "url": "https://adaptivecards.microsoft.com/?topic=ProgressBar"
-  },
-  {
-    "topic": "ProgressRing",
-    "text": "ProgressRing",
-    "url": "https://adaptivecards.microsoft.com/?topic=ProgressRing"
-  },
-  {
-    "topic": "Rating",
-    "text": "Rating",
-    "url": "https://adaptivecards.microsoft.com/?topic=Rating"
-  },
-  {
-    "topic": "RichTextBlock",
-    "text": "RichTextBlock",
-    "url": "https://adaptivecards.microsoft.com/?topic=RichTextBlock"
-  },
-  {
-    "topic": "Table",
-    "text": "Table",
-    "url": "https://adaptivecards.microsoft.com/?topic=Table"
-  },
-  {
-    "topic": "TabSet",
-    "text": "TabSet",
-    "url": "https://adaptivecards.microsoft.com/?topic=TabSet"
-  },
-  {
-    "topic": "TextBlock",
-    "text": "TextBlock",
-    "url": "https://adaptivecards.microsoft.com/?topic=TextBlock"
+    "topic": "TargetElement",
+    "text": "TargetElement",
+    "url": "https://adaptivecards.microsoft.com/?topic=TargetElement"
   },
   {
     "topic": "Input.ChoiceSet",
     "text": "Input.ChoiceSet",
     "url": "https://adaptivecards.microsoft.com/?topic=Input.ChoiceSet"
+  },
+  {
+    "topic": "Choice",
+    "text": "Choice",
+    "url": "https://adaptivecards.microsoft.com/?topic=Choice"
+  },
+  {
+    "topic": "Data.Query",
+    "text": "Data.Query",
+    "url": "https://adaptivecards.microsoft.com/?topic=Data.Query"
   },
   {
     "topic": "Input.Date",
@@ -310,31 +545,6 @@
     "url": "https://adaptivecards.microsoft.com/?topic=Input.Text"
   },
   {
-    "topic": "Chart.Donut",
-    "text": "Chart.Donut",
-    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Donut"
-  },
-  {
-    "topic": "Chart.Gauge",
-    "text": "Chart.Gauge",
-    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Gauge"
-  },
-  {
-    "topic": "Chart.HorizontalBar",
-    "text": "Chart.HorizontalBar",
-    "url": "https://adaptivecards.microsoft.com/?topic=Chart.HorizontalBar"
-  },
-  {
-    "topic": "Chart.HorizontalBar.Stacked",
-    "text": "Chart.HorizontalBar.Stacked",
-    "url": "https://adaptivecards.microsoft.com/?topic=Chart.HorizontalBar.Stacked"
-  },
-  {
-    "topic": "Chart.Line",
-    "text": "Chart.Line",
-    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Line"
-  },
-  {
     "topic": "Input.Time",
     "text": "Input.Time",
     "url": "https://adaptivecards.microsoft.com/?topic=Input.Time"
@@ -343,6 +553,101 @@
     "topic": "Input.Toggle",
     "text": "Input.Toggle",
     "url": "https://adaptivecards.microsoft.com/?topic=Input.Toggle"
+  },
+  {
+    "topic": "Chart.Donut",
+    "text": "Chart.Donut",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Donut"
+  },
+  {
+    "topic": "DonutChartData",
+    "text": "DonutChartData",
+    "url": "https://adaptivecards.microsoft.com/?topic=DonutChartData"
+  },
+  {
+    "topic": "Chart.Gauge",
+    "text": "Chart.Gauge",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Gauge"
+  },
+  {
+    "topic": "GaugeChartLegend",
+    "text": "GaugeChartLegend",
+    "url": "https://adaptivecards.microsoft.com/?topic=GaugeChartLegend"
+  },
+  {
+    "topic": "Chart.HorizontalBar",
+    "text": "Chart.HorizontalBar",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.HorizontalBar"
+  },
+  {
+    "topic": "BarChartDataValue",
+    "text": "BarChartDataValue",
+    "url": "https://adaptivecards.microsoft.com/?topic=BarChartDataValue"
+  },
+  {
+    "topic": "HorizontalBarChartDataValue",
+    "text": "HorizontalBarChartDataValue",
+    "url": "https://adaptivecards.microsoft.com/?topic=HorizontalBarChartDataValue"
+  },
+  {
+    "topic": "Chart.HorizontalBar.Stacked",
+    "text": "Chart.HorizontalBar.Stacked",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.HorizontalBar.Stacked"
+  },
+  {
+    "topic": "StackedHorizontalBarChartData",
+    "text": "StackedHorizontalBarChartData",
+    "url": "https://adaptivecards.microsoft.com/?topic=StackedHorizontalBarChartData"
+  },
+  {
+    "topic": "StackedHorizontalBarChartDataPoint",
+    "text": "StackedHorizontalBarChartDataPoint",
+    "url": "https://adaptivecards.microsoft.com/?topic=StackedHorizontalBarChartDataPoint"
+  },
+  {
+    "topic": "Chart.Line",
+    "text": "Chart.Line",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Line"
+  },
+  {
+    "topic": "LineChartData",
+    "text": "LineChartData",
+    "url": "https://adaptivecards.microsoft.com/?topic=LineChartData"
+  },
+  {
+    "topic": "LineChartValue",
+    "text": "LineChartValue",
+    "url": "https://adaptivecards.microsoft.com/?topic=LineChartValue"
+  },
+  {
+    "topic": "Chart.Pie",
+    "text": "Chart.Pie",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Pie"
+  },
+  {
+    "topic": "Chart.VerticalBar",
+    "text": "Chart.VerticalBar",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.VerticalBar"
+  },
+  {
+    "topic": "VerticalBarChartDataValue",
+    "text": "VerticalBarChartDataValue",
+    "url": "https://adaptivecards.microsoft.com/?topic=VerticalBarChartDataValue"
+  },
+  {
+    "topic": "Chart.VerticalBar.Grouped",
+    "text": "Chart.VerticalBar.Grouped",
+    "url": "https://adaptivecards.microsoft.com/?topic=Chart.VerticalBar.Grouped"
+  },
+  {
+    "topic": "GroupedVerticalBarChartData",
+    "text": "GroupedVerticalBarChartData",
+    "url": "https://adaptivecards.microsoft.com/?topic=GroupedVerticalBarChartData"
+  },
+  {
+    "topic": "chart-colors-reference",
+    "text": "Chart colors reference",
+    "url": "https://adaptivecards.microsoft.com/?topic=chart-colors-reference"
   },
   {
     "topic": "AccordionPage",
@@ -368,25 +673,5 @@
     "topic": "ThemedUrl",
     "text": "ThemedUrl",
     "url": "https://adaptivecards.microsoft.com/?topic=ThemedUrl"
-  },
-  {
-    "topic": "Chart.Pie",
-    "text": "Chart.Pie",
-    "url": "https://adaptivecards.microsoft.com/?topic=Chart.Pie"
-  },
-  {
-    "topic": "Chart.VerticalBar",
-    "text": "Chart.VerticalBar",
-    "url": "https://adaptivecards.microsoft.com/?topic=Chart.VerticalBar"
-  },
-  {
-    "topic": "Chart.VerticalBar.Grouped",
-    "text": "Chart.VerticalBar.Grouped",
-    "url": "https://adaptivecards.microsoft.com/?topic=Chart.VerticalBar.Grouped"
-  },
-  {
-    "topic": "chart-colors-reference",
-    "text": "Chart colors reference",
-    "url": "https://adaptivecards.microsoft.com/?topic=chart-colors-reference"
   }
 ]

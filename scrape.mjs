@@ -54,6 +54,12 @@ async function discoverTopics(page) {
         await item.click();
         await page.waitForTimeout(600);
 
+        // Press ArrowRight to expand collapsed tree nodes and reveal
+        // nested children (e.g. LineChartData under Chart.Line).
+        // Click alone only navigates; ArrowRight actually expands.
+        await item.press("ArrowRight");
+        await page.waitForTimeout(400);
+
         const url = page.url();
         const topic = new URL(url).searchParams.get("topic");
 
