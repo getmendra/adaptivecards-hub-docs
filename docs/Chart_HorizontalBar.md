@@ -18,7 +18,7 @@ A horizontal bar chart.
 
 **Example:** absolute scale with axis
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -62,7 +62,7 @@ A horizontal bar chart.
 
 **Example:** absolute scale without axis
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -104,7 +104,7 @@ A horizontal bar chart.
 
 **Example:** parts-to-whole
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

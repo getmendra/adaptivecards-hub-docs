@@ -12,7 +12,7 @@ Works in
 
 Use tables to display data in a tabular way, with rows, columns and cells.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

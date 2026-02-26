@@ -12,7 +12,7 @@ Works in
 
 A set of images, displayed side-by-side and wrapped across multiple rows as needed.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.0",

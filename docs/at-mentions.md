@@ -26,7 +26,7 @@ Teams allows you to use the following types of Ids in @mentions:
 
 **Example**
 
-```
+```json
 {
   "version": "1.0",
   "type": "AdaptiveCard",

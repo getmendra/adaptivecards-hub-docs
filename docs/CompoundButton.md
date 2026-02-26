@@ -12,7 +12,7 @@ Works in
 
 A special type of button with an icon, title and description.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

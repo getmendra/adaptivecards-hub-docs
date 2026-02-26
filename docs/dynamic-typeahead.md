@@ -16,7 +16,7 @@ To configure an **Input.ChoiceSet** to support dynamic typeahead search:
 
 ### Example
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "body": [

@@ -12,7 +12,7 @@ Works in
 
 An Adaptive Card, containing a free-form body of card elements, and an optional set of actions.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "speak": "Intro to graphic design, concepts video",

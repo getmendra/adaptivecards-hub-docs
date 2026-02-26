@@ -42,7 +42,7 @@ To bypass input validation, set your action's associatedInput property to `"none
 
 ## Example
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",

@@ -24,7 +24,7 @@ In the below payload:
 -   Because the "city" input is required, resetting its value will force the end user to pick a new city whenever "country" changes
 -   As the user starts typing in the "city" input, the `Data.Query`request made to your Bot will include the value of the "country" input, allowing your Bot to return a list of cities for the selected country/region only
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

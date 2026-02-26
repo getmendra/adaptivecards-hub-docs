@@ -12,7 +12,7 @@ Works in
 
 A read-only star rating element, to display the rating of something.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

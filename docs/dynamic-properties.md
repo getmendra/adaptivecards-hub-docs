@@ -43,7 +43,7 @@ TypeScriptasync function authorizeUser() {
 
 Now we can define a card that leverages that function, alongside the standard `if` function:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

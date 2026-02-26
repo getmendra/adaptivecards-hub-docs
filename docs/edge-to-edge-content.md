@@ -10,7 +10,7 @@ Elements can span the full width or height of an Adaptive Card for enhanced visu
 
 Edge-to-edge content in Adaptive Cards lets certain elements span the full width or height of the card. This creates a more immersive and visually engaging experience. This feature is particularly useful for creating impactful designs or highlighting specific information.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -699,7 +699,7 @@ To create edge-to-edge content, use the bleed property on container elements alo
 
 -   The following example shows a background image with a text overlay, creating a hero banner feel. Use this common pattern to highlight key messages or announcements with a visually impactful design.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -893,7 +893,7 @@ To create edge-to-edge content, use the bleed property on container elements alo
 
 -   The following example shows multiple background images on a card to visually separate sections. This design is useful for presenting different options or categories. Each one has its own background image to visually define the sections.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -2461,7 +2461,7 @@ To create edge-to-edge content, use the bleed property on container elements alo
 
 The following card uses full-width column sets with an accent color to present detailed information. Organizing and displaying content in this way makes it easy for users to understand.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",

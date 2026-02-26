@@ -40,7 +40,7 @@ If the `yMin` and `yMax` properties are specified, the chart will use these valu
 
 Time series line chart with x axis values expressed as dates:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -147,7 +147,7 @@ Time series line chart with x axis values expressed as dates:
 
 Time series line chart with x axis values expressed as numbers:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -241,7 +241,7 @@ Time series line chart with x axis values expressed as numbers:
 
 Categorical line chart:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -336,7 +336,7 @@ Categorical line chart:
 
 Explicit y range:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

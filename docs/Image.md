@@ -12,7 +12,7 @@ Works in
 
 A standalone image element.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -73,7 +73,7 @@ JSON{
 
 **Example:**
 
-```
+```json
 {
   "version": "1.0",
   "type": "AdaptiveCard",

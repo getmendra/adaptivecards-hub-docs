@@ -27,7 +27,7 @@ Where:
 
 **Example:**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.0",

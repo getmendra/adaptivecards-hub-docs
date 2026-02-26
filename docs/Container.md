@@ -12,7 +12,7 @@ Works in
 
 A container for other elements. Use containers for styling purposes and/or to logically group a set of elements together, which can be especially useful when used with Action.ToggleVisibility.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

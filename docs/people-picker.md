@@ -15,7 +15,7 @@ Use a People Picker in your card to allow the user to select a user from the org
 
 **Example:**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "body": [

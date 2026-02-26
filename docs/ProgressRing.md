@@ -12,7 +12,7 @@ Works in
 
 A spinning ring element, to indicate progress.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

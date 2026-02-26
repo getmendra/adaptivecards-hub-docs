@@ -14,7 +14,7 @@ A set of facts, displayed as a table or a vertical list when horizontal space is
 
 Use FactSet to display a series of title and value pairs in a simple table layout. FactSet is responsive out of the box and will adjust its layout to a vertical list as the card becomes narrower, as shown in the below example:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "body": [

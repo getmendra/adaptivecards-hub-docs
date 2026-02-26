@@ -12,7 +12,7 @@ Works in
 
 A donut chart.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -61,7 +61,7 @@ A donut chart.
 
 Use the showTitle, showLegend, showOutlines, maxWidth, value and valueColor properties to render a small Donut chart:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

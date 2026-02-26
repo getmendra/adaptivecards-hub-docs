@@ -14,7 +14,7 @@ A progress bar element, to represent a value within a range.
 
 The ProgressBar element visually communicates progress or system states with modern, clear design. It helps users quickly assess whether a task is ongoing or a specific state (e.g., error or near-full capacity) exists.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -132,7 +132,7 @@ Colors can be used to convey further detail:
 
 Let the user know their request is being processed:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -159,7 +159,7 @@ Let the user know their request is being processed:
 
 A task was successfully processed:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -216,7 +216,7 @@ A task was successfully processed:
 
 A task failed:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -273,7 +273,7 @@ A task failed:
 
 Storage space is running is low:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

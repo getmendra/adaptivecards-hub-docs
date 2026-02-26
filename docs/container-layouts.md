@@ -28,7 +28,7 @@ But, we want the text to show below the image when there is not enough horizonta
 
 This can be done very easily using Layout.AreaGrid:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

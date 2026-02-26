@@ -12,7 +12,7 @@ Works in
 
 A formatted and syntax-colored code block.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

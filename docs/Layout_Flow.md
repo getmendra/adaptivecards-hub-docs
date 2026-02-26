@@ -18,7 +18,7 @@ Use `Layout.Flow` to layout lists of elements such as images without having to w
 
 **Top-left alignment**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -67,7 +67,7 @@ Use `Layout.Flow` to layout lists of elements such as images without having to w
 
 **Horizontally and vertically centered**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -111,7 +111,7 @@ Use `Layout.Flow` to layout lists of elements such as images without having to w
 
 **Always fill the available space on each row**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

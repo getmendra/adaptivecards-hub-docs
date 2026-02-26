@@ -12,7 +12,7 @@ Works in
 
 An input to allow the user to select one or more values.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.3",

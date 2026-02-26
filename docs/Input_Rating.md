@@ -12,7 +12,7 @@ Works in
 
 An input to allow the user to rate something using stars.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

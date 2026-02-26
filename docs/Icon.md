@@ -14,7 +14,7 @@ A standalone icon element. Icons can be picked from the vast Adaptive Card icon 
 
 Use the `Icon` element to enhance your card's visual appeal and usability. All icons in the Icon catalog are available in two styles: regular and filled. They are monochrome but can be colored to match any available font colors. They are available in eight standard sizes, fitting a variety of design needs.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -192,7 +192,7 @@ Scale icons to fit their contextUse excessively large or small icons
 
 The Adaptive Card below illustrates how icons can be implemented in a button, in the card's body, or within a badge element.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",

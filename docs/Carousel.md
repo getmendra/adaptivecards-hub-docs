@@ -14,7 +14,7 @@ A carousel with sliding pages.
 
 With the Carousel element, you can present a series of related content pages and allow the end-user to navigate between them using a horizontal sliding mechanism. Each page can contain interactive elements, like buttons or links, so users can take action directly from the carousel. This feature is particularly useful for displaying a collection of items, such as product listings, news articles, or image galleries, in a compact and interactive format.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -101,7 +101,7 @@ Using the Carousel element can enhance user engagement. It provides a visually a
 
 **Product showcase**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -834,7 +834,7 @@ Using the Carousel element can enhance user engagement. It provides a visually a
 
 **Company news**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -1132,7 +1132,7 @@ Using the Carousel element can enhance user engagement. It provides a visually a
 
 **Onborading**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",

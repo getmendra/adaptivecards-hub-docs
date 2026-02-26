@@ -12,7 +12,7 @@ Works in
 
 A pie chart.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

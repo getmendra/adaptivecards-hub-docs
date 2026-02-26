@@ -12,7 +12,7 @@ Works in
 
 A stacked horizontal bar chart.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

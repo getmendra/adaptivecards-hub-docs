@@ -20,8 +20,12 @@ turndown.addRule("pre", {
   filter: ["pre"],
   replacement(content, node) {
     const code = node.querySelector("code");
-    const lang = code?.className?.match(/language-(\w+)/)?.[1] || "";
+    let lang = code?.className?.match(/language-(\w+)/)?.[1] || "";
     const text = code?.textContent || node.textContent;
+    // If no language was detected, check if the content looks like JSON
+    if (!lang && /^\s*[\{\[]/.test(text)) {
+      lang = "json";
+    }
     return `\n\n\`\`\`${lang}\n${text.trim()}\n\`\`\`\n\n`;
   },
 });

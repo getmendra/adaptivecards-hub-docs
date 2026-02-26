@@ -16,7 +16,7 @@ Container elements such as Container or Column may have a background image defin
 
 #### Example
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -91,7 +91,7 @@ When adding TextBlock elements to a container with a background image, ensure th
 
 In the Adaptive Card below, the **"MAY 31"** text on the top dark background image uses the `light` font color:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -169,7 +169,7 @@ In the Adaptive Card below, the **"MAY 31"** text on the top dark background ima
 
 In the Adaptive Card below, the **"DESIGN TALK SERIES"** text on the top light background image uses the `dark` font color:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -240,7 +240,7 @@ In the Adaptive Card below, the **"DESIGN TALK SERIES"** text on the top light b
 
 In the Adaptive Card below, the card features a background image with an overlaid container that also uses a solid background color (a white PNG image in this example). Text is then added on top of the container. This approach is useful when neither the `light` nor `dark` font colors can ensure readability against the background image.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

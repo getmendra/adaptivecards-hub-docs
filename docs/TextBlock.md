@@ -12,7 +12,7 @@ Works in
 
 A block of text, optionally formatted using Markdown.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

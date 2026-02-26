@@ -10,7 +10,7 @@ Adaptive Cards provide a vast catalog of icons that can be used via the Icon ele
 
 **Example**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

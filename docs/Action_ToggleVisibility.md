@@ -14,7 +14,7 @@ Toggles the visibility of a set of elements. Action.ToggleVisibility is useful f
 
 Use **Action.ToggleVisibility** when you need to show or hide a set of elements all at once in a card. **Action.ToggleVisibility** is particularly useful for creating "Show more" type experience as shown in the below example:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",

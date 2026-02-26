@@ -12,7 +12,7 @@ Works in
 
 Shows a popover to display more information to the user.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -105,7 +105,7 @@ Use `Action.Popover` to show additional information to the end-user in a "popove
 
 ### Example:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

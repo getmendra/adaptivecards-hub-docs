@@ -12,7 +12,7 @@ Works in
 
 A grouped vertical bar chart.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

@@ -35,7 +35,7 @@ To include a citation in a RichTextBlock, use a CitationRun and:
 
 ### Example
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

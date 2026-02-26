@@ -63,7 +63,7 @@ JSON"layouts": [
 
 **Example**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

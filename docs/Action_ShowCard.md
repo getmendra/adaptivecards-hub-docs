@@ -12,7 +12,7 @@ Works in
 
 Expands or collapses an embedded card within the main card.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.0",

@@ -54,7 +54,7 @@ You can also set the `targetWidth` property to make an element visible for a ran
 
 Here's an Adaptive Card designed without using `targetWidth`:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "body": [
@@ -118,7 +118,7 @@ As you can see:
 
 Now here's the same card updated to be responsive using `targetWidth`:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "body": [

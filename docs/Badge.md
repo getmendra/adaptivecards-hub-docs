@@ -12,7 +12,7 @@ Works in
 
 A badge element to show an icon and/or text in a compact form over a colored background.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

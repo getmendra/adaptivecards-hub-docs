@@ -12,7 +12,7 @@ Works in
 
 A media element, that makes it possible to embed videos inside a card.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

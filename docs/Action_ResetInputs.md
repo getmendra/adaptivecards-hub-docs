@@ -14,7 +14,7 @@ Resets the values of the inputs in the card.
 
 Use **Action.ResetInputs** to offer a way to the end user to start over and/or to link inputs together.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

@@ -12,7 +12,7 @@ Works in
 
 Displays a set of action, which can be placed anywhere in the card.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.0",

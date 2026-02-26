@@ -14,7 +14,7 @@ A rich text block that displays formatted text.
 
 RichTextBlock allows you to break out of the limitations of Markdown and format text with different fonts, font sizes, colors and more. Use RichTextBlock to present dynamic, expressive, and visually appealing text.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -154,7 +154,7 @@ Use the RichTextBlock element to help create cards that are informative and enga
 
 This flash sale card features bold headlines, inline icons, a crossed-out original price, and a vibrant sale price. They work together to showcase a promotional offer.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -459,7 +459,7 @@ This flash sale card features bold headlines, inline icons, a crossed-out origin
 
 This card uses underlines, inline images and icons, and mixed colors. It effectively presents the repository details, pull request numbers, and merge information.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -1025,7 +1025,7 @@ This card uses underlines, inline images and icons, and mixed colors. It effecti
 
 This card uses italic formatting and a large quotation mark. Together they deliver a reflective, inspirational message with clear attribution.
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",

@@ -52,7 +52,7 @@ Markdown- [x] Task 1
 
 Example:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -83,7 +83,7 @@ Markdown| Column 1 | Column 2 | Column 3 |
 
 Example:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -104,7 +104,7 @@ Markdown> Quoted text
 
 Example:
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",

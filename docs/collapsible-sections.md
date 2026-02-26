@@ -20,7 +20,7 @@ Action.ShowCard displays an embedded card within your Adaptive Card. This featur
 
 **Examples**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -217,7 +217,7 @@ Action.ShowCard displays an embedded card within your Adaptive Card. This featur
 }
 ```
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -817,7 +817,7 @@ Action.ToggleVisibility allows elements within the card to be shown or hidden ba
 
 **Examples**
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -1710,7 +1710,7 @@ Action.ToggleVisibility allows elements within the card to be shown or hidden ba
 }
 ```
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
@@ -2366,7 +2366,7 @@ Action.ToggleVisibility allows elements within the card to be shown or hidden ba
 }
 ```
 
-```
+```json
 {
   "type": "AdaptiveCard",
   "speak": "Apricot-chile glazed chicken recipe",
