@@ -3,11 +3,18 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "scrape": "node scrape.mjs"
+    "scrape": "node scrape.mjs",
+    "build:schema": "node build-chart-schema.cjs",
+    "validate": "node validate-examples.mjs",
+    "validate:charts": "node validate-examples.mjs docs/Chart_*.md",
+    "validate:quiet": "node validate-examples.mjs --quiet"
   },
   "dependencies": {
     "playwright": "^1.50.0",
     "turndown": "^7.2.0",
     "turndown-plugin-gfm": "^1.0.2"
+  },
+  "devDependencies": {
+    "ajv": "^8.18.0"
   }
 }

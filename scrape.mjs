@@ -26,7 +26,14 @@ turndown.addRule("pre", {
     if (!lang && /^\s*[\{\[]/.test(text)) {
       lang = "json";
     }
-    return `\n\n\`\`\`${lang}\n${text.trim()}\n\`\`\`\n\n`;
+    // Use a fence longer than any backtick sequence in the content
+    // so embedded ``` (e.g. markdown inside JSON strings) won't break the block
+    const longestRun = (text.match(/`{3,}/g) || []).reduce(
+      (max, s) => Math.max(max, s.length),
+      0,
+    );
+    const fence = "`".repeat(Math.max(3, longestRun + 1));
+    return `\n\n${fence}${lang}\n${text.trim()}\n${fence}\n\n`;
   },
 });
 

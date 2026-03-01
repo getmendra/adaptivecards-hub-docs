@@ -139,7 +139,7 @@ function sayHello() {
 
 Example:
 
-```
+````json
 {
   "type": "AdaptiveCard",
   "version": "1.5",
@@ -154,7 +154,7 @@ Example:
     }
   ]
 }
-```
+````
 
 ## Footnotes
 
